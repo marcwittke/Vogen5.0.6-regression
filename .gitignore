@@ -1,0 +1,32 @@
+# Visual Studio user-specific files
+*.suo
+*.user
+
+# Visual Studio Build results
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+
+# Visual Studio cache/options directory
+.vs/
+
+# Visual Studio Code
+.vscode/ 
+
+
+# User-specific stuff
+**/.idea/**/workspace.xml
+**/.idea/**/tasks.xml
+**/.idea/**/usage.statistics.xml
+**/.idea/**/dictionaries
+**/.idea/**/shelf
+**/.idea/**/codeStyles
+**/.idea/**/copilot
+**/.idea/**/*.meta
+**/.idea/**/.idea/dataSources/
+**/.idea/**/*.local.*
+
+# log files
+*.xlog
+*.log
+*.trx
